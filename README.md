@@ -1,8 +1,8 @@
 <h1 align="center">The Orchid Project OnePlus launcher</h1>
 
-- Repo type **oplauncher**
+- Repo type **system launcher**
 
-- This is launcher is Based on **Oneplus Launcher android  Mod by @Skulshady**
+- This launcher is Based on **Oneplus Launcher android  Mod by @Skulshady**
 
 - OnePlus launcher for android this is the default launcher in all **Orchid os** roms this is the updated version,
 instructions follow below to install in your own rom 
