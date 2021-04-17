@@ -10,6 +10,7 @@ instructions follow below to install in your own rom
 What you see is what you get
 The OnePlus launcher provides intuitive options that are easy to access and modify. Just want to check how a particular modification looks, before applying it? You can always preview a change before it’s applied.
 Organize your life in Shelf
+
 **All credits goes to the Skulshady for modding Oneplus Launcher for AOSP roms**
 
 - Usage Instructions:
