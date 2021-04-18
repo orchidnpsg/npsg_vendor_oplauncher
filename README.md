@@ -15,7 +15,7 @@ Organize your life in Shelf
 
 - Usage Instructions:
 
-git clone https://github.com/orchidnpsg/oplauncher vendor/oplauncher
+git clone to vendor/oplauncher
 
 then
 
